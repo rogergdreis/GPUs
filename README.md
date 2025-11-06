@@ -1,1 +1,3 @@
-# GPUs
+# Nomes:
+
+Wellington Bianchetti Paes
