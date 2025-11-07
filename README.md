@@ -1,5 +1,7 @@
 # Nomes:
 
+Allan Furquim Almeida
+
 Gustavo Henrique Rosa
 
 
