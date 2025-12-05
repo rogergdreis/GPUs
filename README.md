@@ -19,4 +19,4 @@ preciso fazer toda a etapa de ETL para discernimento e padronização dos dados.
 Pergunta: Evolução exponencial da performance das GPUs ao longo do tempo.
 Instruções: VS Code ou outra IDE python que suporte as bibliotecas: request, json, csv,
 matplotlib, streamlit e datetime.
-Screenshots: pendente
+Screenshots: Arquivo screenshotStreamLit.jpg
