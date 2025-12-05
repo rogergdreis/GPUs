@@ -1,0 +1,283 @@
+Atributo
+API (version) Direct3D
+API (version) OpenGL
+API compliance (version) Direct3D
+API compliance (version) DirectX
+API compliance (version) OpenCL
+API compliance (version) OpenGL
+API compliance (version) OpenGL (OpenCL)
+API compliance (version) Other
+API compliance (version) Vulkan
+API compliance Direct3D
+API compliance OpenGL
+API support (version) Direct3D
+API support (version) OpenCL
+"API support (version) OpenCL, ATI Stream"
+API support (version) OpenGL
+API support Direct3D
+API support OpenGL
+APU
+APU Series
+Architecture
+Architecture & Fab
+Architecture & fab
+Architecture (Fab)
+Architecture Fab
+Architecture features
+Boost clock (MHz)
+Branding and Model
+Branding and Model Branding and Model.1
+Bus Interface
+Bus interface
+Bus interface Bus interface Bus interface
+CUDA compute capability
+Cache L1
+Cache L1/SM (KiB)
+Cache L2
+Cache L2 (MiB)
+Chiplets
+Clock Speeds Base (MHz)
+Clock Speeds Boost (MHz)
+Clock Speeds Memory (GT/s)
+Clock rate (MHz)
+Clock rate (MHz) Boost (MHz)
+Clock rate (MHz) Core (MHz)
+Clock rate Average Boost (MHz)
+Clock rate Base (MHz)
+Clock rate Core (MHz)
+Clock rate Max Boost (MHz)
+Clock rate Memory (GT/s)
+Clock rate Memory (MHz)
+Clock rate Shader (MHz)
+Clock speed Average (MHz)
+Clock speed Core (MHz)
+Clock speed Memory (GT/s)
+Clock speed Memory (MHz)
+Clock speed Min (MHz)
+Clock speed Shader (MHz)
+Clock speeds Base core (MHz)
+Clock speeds Base core clock (MHz)
+Clock speeds Boost clock (MHz)
+Clock speeds Boost core (MHz)
+Clock speeds Boost core clock (MHz)
+Clock speeds Memory (GT/s)
+Clock speeds Memory (MHz) (Gb/s) (GT/s)
+Clock speeds Memory (MT/s)
+Code name
+Code name (console model)
+Code name Code name Code name
+Code name(s)
+Codename
+Combined TDP Idle (W)
+Combined TDP Max. (W)
+Comments
+Config core
+Core
+Core CUDA cores
+Core Clock (MHz)
+Core Clock (MHz) Base
+Core Clock (MHz) Turbo
+Core Clock rate (MHz)
+Core Clock speed Boost value
+Core Config
+Core Config (CU)
+Core Ray tracing cores
+Core Render output unit
+Core Tensor cores
+Core Texture mapping unit
+Core clock (MHz)
+Core clock (MHz) Core clock (MHz) Core clock (MHz)
+Core config
+Core config Core config Core config
+"Core config,"
+"Core config,,"
+CrossFire support
+Crossfire Support
+Crossfire support
+Deep Learning TOPS (INT8)
+Die size
+Die size (mm)
+Execution units
+Fab (nm)
+Fab (nm) Fab (nm) Fab (nm)
+Features
+Features /Notes
+Fillrate (GT/s)
+Fillrate FP32 (GP/s)
+Fillrate MOperations/s
+Fillrate MOps/s
+Fillrate MPixels/s
+Fillrate MTexels/s
+Fillrate MTri/s
+Fillrate MVertices/s
+Fillrate Pixel
+Fillrate Pixel (GP/s)
+Fillrate Pixel (GP/s) Pixel (GP/s)
+Fillrate Ray Tracing (TFLOPS)
+Fillrate Texture
+Fillrate Texture (GT/s)
+Fillrate Texture (GT/s) Texture (GT/s)
+GPU arch
+GPU code name and/or architecture
+Graphics core
+Hardware T&L
+Infinity Cache Bandwidth (GB/s)
+Infinity Cache Size
+Interface Host
+L2 Cache (MiB)
+L2 Cache(MiB)
+L2 cache
+Latest API support Direct3D
+Latest API support OpenGL
+Latest supported API version Direct3D
+Latest supported API version OpenGL
+Latest supported API version Other
+Latest supported API version Vulkan
+Launch
+ML Performance TOPS (INT4)
+ML Performance TOPS (INT8)
+MSRP (USD)
+Memory (GT/s)
+Memory (MHz)
+Memory Bandwidth
+Memory Bandwidth (GB/s)
+Memory Bandwidth (GB/s) Bandwidth (GB/s)
+Memory Bus type
+Memory Bus type & width
+Memory Bus type & width (bit)
+Memory Bus type Bus type
+Memory Bus width
+Memory Bus width (Bit)
+Memory Bus width (bit)
+Memory Bus width (bit) Bus width (bit)
+Memory Clock
+Memory Clock (MHz)
+Memory Clock (MT/s)
+Memory Effective clock (MHz)
+Memory RAM type
+Memory Size
+Memory Size (GB)
+Memory Size (GiB)
+Memory Size (KiB)
+Memory Size (MB)
+Memory Size (MiB)
+Memory Size (MiB) Size (MiB)
+Memory Type
+Memory clock (MHz)
+Memory clock (MHz) Memory clock (MHz) Memory clock (MHz)
+Memory clock (MT)
+Memory configuration Bandwidth (GB/s)
+Memory configuration Bus width (bit)
+Memory configuration DRAM type
+Memory configuration Size (GiB)
+Memory configuration Size (MiB)
+Micro-archi-tecture
+Microarchitecture
+Model
+Model (Code name)
+Model (Codename)
+Model (codename)
+Model name
+Model name (Architecture)
+NVLink Support
+NVLink support
+Notes
+Notes (original research)
+"Notes, form factor"
+Nvidia Optimus technology
+Performance (FLOPS)
+Performance (GFLOPS FP32)
+Performance (GFLOPS)
+Performance (MFLOPS FP32)
+Process
+Processing power (GFLOPS)
+Processing power (GFLOPS) Double
+Processing power (GFLOPS) Double precision
+Processing power (GFLOPS) Half
+Processing power (GFLOPS) Half precision
+Processing power (GFLOPS) INT8
+Processing power (GFLOPS) Ray Tracing Performance
+Processing power (GFLOPS) Single
+Processing power (GFLOPS) Single precision
+Processing power (GFLOPS) Single precision (Boost)
+Processing power (GFLOPS) Tensor compute (FP16) (2:1 sparse)
+Processing power (GFLOPS) Tensor compute + Single precision
+Processing power (TFLOPS) Bfloat16
+Processing power (TFLOPS) Double
+Processing power (TFLOPS) Double precision
+Processing power (TFLOPS) Double precision (FMA)
+Processing power (TFLOPS) Double precision (base)
+Processing power (TFLOPS) Half
+Processing power (TFLOPS) Half precision
+Processing power (TFLOPS) Half precision (base)
+Processing power (TFLOPS) Half precision Tensor Core FP32 Accumulate
+Processing power (TFLOPS) Single
+Processing power (TFLOPS) Single precision
+Processing power (TFLOPS) Single precision (MAD or FMA)
+Processing power (TFLOPS) Single precision (base)
+Processing power (TFLOPS) Tensor
+Processing power (TFLOPS) Tensor TOPS (INT8)
+Processing power (TFLOPS) Tensor compute (FP16)
+Processing power (TFLOPS) Tensor compute (FP16) (2:1 sparse)
+Processing power (TFLOPS) Tensor compute (FP16) (sparse)
+Processing power (TFLOPS) Tensor compute FP16 (2:1 sparse)
+Processing power (TFLOPS) Tensor compute FP4 (2:1 sparse)
+Processing power FP16/FP32
+Processing power FP64
+Ray-tracing Performance (TFLOPS)
+Ray-tracing Performance RTX OPS/s (Trillions)
+Ray-tracing Performance Rays/s (Billions)
+Ray-tracing performance GRays/s (triangles)
+Ray-tracing performance GRays/s (voxels or boxes)
+Release Date & Price
+Release Price (USD)
+Release price (USD)
+Release price (USD) Founders Edition
+Release price (USD) MSRP
+SLI support
+SM count
+SMX count
+Shader clock (MHz)
+Shaders Base clock (MHz)
+Shaders Core config
+Shaders Max boost clock (MHz)
+Shading units
+Shared Memory Bandwidth (GB/s)
+Shared Memory Bus type
+Shared Memory Bus width (bit)
+Shared memory Bandwidth (GB/s)
+Shared memory Bus type & width (bit)
+Shared memory Clock
+Size Profile
+Size Slots
+Stream processors
+Streaming multiprocessors
+Supported API version CUDA
+Supported API version CUDA Compute Capability
+Supported API version Direct3D
+Supported API version DirectX
+Supported API version OpenCL
+Supported API version OpenGL
+Supported API version OpenGL Drivers (Software)
+Supported API version OpenGL Hardware
+Supported API version Vulkan
+TBP
+TBP (W)
+TDP
+TDP (W)
+TDP (W) Idle Max
+TDP (Watts)
+TDP (Watts) Idle
+TDP (Watts) Max
+TDP (Watts) Max.
+TDP (Watts) TDP (Watts) TDP (Watts)
+TDP /idle (Watts)
+TDP /idle (watts)
+Transistors
+Transistors & Die Size
+Transistors & die size
+Transistors (billion)
+Transistors (million)
+Transistors (million) Die size (mm)
+Transistors Die Size
+Vendor
